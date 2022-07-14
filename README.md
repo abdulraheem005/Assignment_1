@@ -12,7 +12,7 @@
 
 - What are the benefits of Cloud Computing
 
-	1-Cost Savings
+	1-Cost Savings<br/>
 	2-Security
 	3-Flexibility
 	4-Mobility
