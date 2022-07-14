@@ -35,3 +35,9 @@
 	<b>Staged:</b> the file has been added to git's version control but changes have not been committed.<br/>
 	<b>Committed:</b> the change has been committed.<br/>
 	<b>Push:</b> Committed changes are pushed to remote server.<br/>
+
+6.  3 methods of git reset
+
+	-Soft
+ 	-Mixed
+	-Hard
