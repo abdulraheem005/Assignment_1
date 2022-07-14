@@ -9,3 +9,18 @@
 	Continuous Delivery is a DevOps practice that refers to the building, testing, and delivering improvements to the software code. The phase is referred to as the extension of the Continuous Integration phase to make sure that new changes can be released to the customers quickly in a substantial manner.
 
 	When the step of Continuous Delivery is extended, it results in the phase of Continuous Deployment. Continuous Deployment (CD) is the final stage in the pipeline that refers to the automatic releasing of any developer changes from the repository to the production.
+
+- What are the benefits of Cloud Computing
+
+	1-Cost Savings
+	2-Security
+	3-Flexibility
+	4-Mobility
+	5-Insight
+	6-Increased Collaboration
+	7-Quality Control
+	8-Disaster Recovery
+	9-Loss Prevention
+	10-Automatic Software Updates
+	11-Competitive Edge
+	12-Sustainability
