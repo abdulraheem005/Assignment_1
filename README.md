@@ -13,14 +13,14 @@
 - What are the benefits of Cloud Computing
 
 	1-Cost Savings<br/>
-	2-Security
-	3-Flexibility
-	4-Mobility
-	5-Insight
-	6-Increased Collaboration
-	7-Quality Control
-	8-Disaster Recovery
-	9-Loss Prevention
-	10-Automatic Software Updates
-	11-Competitive Edge
-	12-Sustainability
+	2-Security<br/>
+	3-Flexibility<br/>
+	4-Mobility<br/>
+	5-Insight<br/>
+	6-Increased Collaboration<br/>
+	7-Quality Control<br/>
+	8-Disaster Recovery<br/>
+	9-Loss Prevention<br/>
+	10-Automatic Software Updates<br/>
+	11-Competitive Edge<br/>
+	12-Sustainability<br/>
