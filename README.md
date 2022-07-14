@@ -31,7 +31,7 @@
 
 5. Stages of Git
 
-	Untracked:<h1/> the file exists, but is not part of git's version control.<br/>
+	<h3>Untracked:</h3> the file exists, but is not part of git's version control.<br/>
 	Staged: the file has been added to git's version control but changes have not been committed.<br/>
 	Committed: the change has been committed.<br/>
 	Push: Committed changes are pushed to remote server.<br/>
