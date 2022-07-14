@@ -38,6 +38,6 @@
 
 6.  3 methods of git reset
 
-	-Soft
- 	-Mixed
-	-Hard
+	1.Soft<br/>
+ 	2.Mixed<br/>
+	3.Hard<br/>
